@@ -1,0 +1,15 @@
+{
+  "originHash" : "b8e926f5e1e47d563eb69ac5872ae2c62b92e76e22046ef37eb0e1cea53c88bd",
+  "pins" : [
+    {
+      "identity" : "color-perception",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/gregmturek/color-perception",
+      "state" : {
+        "revision" : "73c37a85f1846a98d3b1e6c629888f31d45af909",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
